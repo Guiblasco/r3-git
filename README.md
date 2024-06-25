@@ -1,7 +1,4 @@
-# Basic comands for Git 
-## In this file we can watch many basic comands for Git 
-
-## TASK LIST 
+# TASK LIST 
 
 ###Task 1. Inicio de sesión
 ###Task 2. Crear un sorteo
