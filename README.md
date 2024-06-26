@@ -1,3 +1,6 @@
+# Archivo README del repositorio r3-git
+## Este archivo nos va a permitir seguir una guia de tareas que vamos a tener que ir haciendo
+
 # TASK LIST 
 
 ###Task 1. Inicio de sesión
